@@ -1,0 +1,83 @@
+body {
+  background-image: url('bg.png');
+  background-size: 60px;
+}
+
+.utama {
+  background-color: white;
+  width: 340px;
+  height: 500px;
+  border: 4px solid #1E90FF;
+  margin: 80px auto 20px;
+  border-radius: 7px;
+}
+
+
+h1 {
+  font-size: 13px;
+  text-align: center;
+  word-spacing: 1px;
+  margin-top: 30px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 15px;
+  text-align: center;
+  word-spacing: 1px;
+  margin-top: 30px;
+  font-weight: bold;
+}  
+
+#voucher {
+  width: 285px;
+  text-align: center;
+  margin: 20px 23px -20px;
+  height: 40px;
+  outline: none;
+}
+
+#free {
+  width: 140px;
+  height: 35px;
+  background-color: red;
+  border: red;
+  color: white;
+  border-radius: 5px;
+  margin-top: 28px;
+  margin-left: 25px;
+}
+
+#login {
+  width: 140px;
+  height: 35px;
+  background-color: #1E90FF;
+  border: #1E90FF;
+  color: white;
+  border-radius: 5px;
+  position: relative;
+}
+
+h3 {
+  font-size: 14px;
+  text-align: center;
+  word-spacing: 1px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+  word-spacing: 1px;
+  margin-top: 11px;
+  font-weight: bold;
+}  
+
+h6{
+  opacity: 30%;
+  margin-top: -10px;
+  font-weight: normal;
+}
+
+
