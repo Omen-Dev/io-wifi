@@ -1,0 +1,53 @@
+body {
+  background-image: url('bg.png');
+  background-size: 60px;
+}
+
+.utama {
+  background-color: white;
+  width: 340px;
+  height: 100%;
+  border: 4px solid #1E90FF;
+  margin: 80px auto 20px;
+  border-radius: 7px;
+}
+
+h1 {
+  color: #1E90FF;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.card {
+  border: solid 2px black;
+  width: 276px;
+  margin: 30px auto;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  line-height: 35px;
+}
+
+h3 {
+  line-height: 60px;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 15px;
+}
+
+h4 {
+  font-weight: normal;
+  opacity: 20%;
+}
+
+h5 {
+  color: #1E90FF;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 3px;
+}
